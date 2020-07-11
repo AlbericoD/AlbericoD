@@ -2,10 +2,13 @@
 
 <!--
 **AlbericoD/AlbericoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Natural Language Processing.
+- 🔭 I’m currently working on [**Twitch Extensions**](https://www.twitch.tv/ext/hecb122wgtrzumrv9ywwjn7wg6nglq) and [**Overwolf Apps**](https://www.overwolf.com/app/Alberico_Dias_Barreto_Filho-Economy_Tool)
+- 🌱 I’m currently learning Natural Language Processing and Machine Learning.
+
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
