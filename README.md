@@ -16,6 +16,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Atypical but fun](https://dev.to/albericod/atypical-but-fun-24dk)
+- [Como criar um chatbot na Twitch.Tv](https://medium.com/@albricodiasbarretofilho/como-criar-um-chatbot-na-twitch-tv-481b2a0e60d8?source=rss-733f635a2f03------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
