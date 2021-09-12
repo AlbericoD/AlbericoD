@@ -2,14 +2,14 @@
 **AlbericoD/AlbericoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi there👋, I'm Albérico Dias</h1>
+<h1 align="center">Hi there👋🏽, I'm Albérico Dias</h1>
 <h3 align="center">Software Engineer a BS in Computer Science</h3>
 
 - 🔭 I’m currently working on **Smart Contracts with Solidity**
 
 - 🌱 I’m currently learning **Natural Language Processing with Alexa**
 
-- 🤝 I’m create some projects to [**Twitch Extensions**](https://www.twitch.tv/ext/hecb122wgtrzumrv9ywwjn7wg6nglq), [**Overwolf Apps**](https://www.overwolf.com/app/Alberico_Dias_Barreto_Filho-Economy_Tool-00001) and Alexa Skills [**help intellectual disability**](https://www.amazon.com.br/dp/B08P7Z8S8C) &  [**twitch feed**](https://www.amazon.com.br/dp/B07X36XMFT)
+- 🚧 I’m create some projects to [**Twitch Extensions**](https://www.twitch.tv/ext/hecb122wgtrzumrv9ywwjn7wg6nglq), [**Overwolf Apps**](https://www.overwolf.com/app/Alberico_Dias_Barreto_Filho-Economy_Tool-00001) and Alexa Skills [**help intellectual disability**](https://www.amazon.com.br/dp/B08P7Z8S8C) &  [**twitch feed**](https://www.amazon.com.br/dp/B07X36XMFT)
 
 - 💬 Ask me about **cs, maths, nlp, blockchain**
 
