@@ -16,6 +16,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Answer by Albérico Dias Barreto Filho for I have written a abasic constructor code in Solidity but I am getting this error. Is it the version issue?](https://stackoverflow.com/questions/69136194/i-have-written-a-abasic-constructor-code-in-solidity-but-i-am-getting-this-error/69148782#69148782)
 - [Atypical but fun](https://dev.to/albericod/atypical-but-fun-24dk)
 - [Como criar um chatbot na Twitch.Tv](https://medium.com/@albricodiasbarretofilho/como-criar-um-chatbot-na-twitch-tv-481b2a0e60d8?source=rss-733f635a2f03------2)
 <!-- BLOG-POST-LIST:END -->
