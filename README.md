@@ -14,7 +14,7 @@
 - 💬 Ask me about **cs, maths, nlp, blockchain**
 
 
-### Blogs posts
+### Blogs/Answers posts
 <!-- BLOG-POST-LIST:START -->
 - [Answer by Albérico Dias Barreto Filho for I have written a abasic constructor code in Solidity but I am getting this error. Is it the version issue?](https://stackoverflow.com/questions/69136194/i-have-written-a-abasic-constructor-code-in-solidity-but-i-am-getting-this-error/69148782#69148782)
 - [Atypical but fun](https://dev.to/albericod/atypical-but-fun-24dk)
