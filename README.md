@@ -23,12 +23,12 @@
 - [Atypical but fun](https://dev.to/albericod/atypical-but-fun-24dk)
 <!-- BLOG-POST-LIST:END -->
 
-### My Latest Releases
+## My Latest Releases
 
-- 📦 Overwolf-Hooks [![npm](https://img.shields.io/npm/v/overwolf-hooks.svg)](https://www.npmjs.com/package/overwolf-hooks) ![npm downloads](https://img.shields.io/npm/dt/overwolf-hooks.svg)
-- 📦 Overwolf React Template [![npm](https://img.shields.io/npm/v/cra-template-overwolf-typescript-redux.svg)](https://www.npmjs.com/package/cra-template-overwolf-typescript-redux) ![npm downloads](https://img.shields.io/npm/dt/cra-template-overwolf-typescript-redux.svg)
-
-
+| Package Name | Total Downloads | Latest Release |
+| ------------ | -------------- | -------------- |
+| [📦 overwolf-hooks](https://www.npmjs.com/package/overwolf-hooks) | ![npm downloads](https://img.shields.io/npm/dt/overwolf-hooks.svg) | [![npm](https://img.shields.io/npm/v/overwolf-hooks.svg)](https://www.npmjs.com/package/overwolf-hooks) |
+| [📦 cra-template-overwolf-typescript-redux](https://www.npmjs.com/package/cra-template-overwolf-typescript-redux) | ![npm downloads](https://img.shields.io/npm/dt/cra-template-overwolf-typescript-redux.svg) | [![npm](https://img.shields.io/npm/v/cra-template-overwolf-typescript-redux.svg)](https://www.npmjs.com/package/cra-template-overwolf-typescript-redux.svg) |
 
 
 <h3 align="left">Connect with me:</h3>
