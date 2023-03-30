@@ -23,6 +23,14 @@
 - [Atypical but fun](https://dev.to/albericod/atypical-but-fun-24dk)
 <!-- BLOG-POST-LIST:END -->
 
+### My Latest Releases
+
+- 📦 Overwolf-Hooks [![npm](https://img.shields.io/npm/v/overwolf-hooks.svg)](https://www.npmjs.com/package/overwolf-hooks) ![npm downloads](https://img.shields.io/npm/dt/overwolf-hooks.svg)
+- 📦 Overwolf React Template [![npm](https://img.shields.io/npm/v/cra-template-overwolf-typescript-redux.svg)](https://www.npmjs.com/package/cra-template-overwolf-typescript-redux) ![npm downloads](https://img.shields.io/npm/dt/cra-template-overwolf-typescript-redux.svg)
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/albericod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="albericod" height="30" width="40" /></a>
